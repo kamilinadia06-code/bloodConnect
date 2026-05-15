@@ -1,0 +1,5 @@
+{
+  "name": "BloodConnect",
+  "description": "Une application facilitant la mise en relation entre les donneurs de sang et les centres de collecte ou les demandes urgentes.",
+  "requestFramePermissions": ["geolocation"]
+}
